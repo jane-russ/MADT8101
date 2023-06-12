@@ -4,4 +4,5 @@
 ## Customer Data Platform Design 
 ![CDP Design](./CDP_Movie.png)
 ## Single Customer View Table
+![SCV Design](./SCV_Movie.png)
 ## Example of single customer view use case
