@@ -3,8 +3,8 @@
 ## 1) Import Dataset
 ## 2) Generate Customer Single View
 ## 3) K-Means Clustering
-**Notebooks:** [K-Means Model](./Revise_Clustering_Result.ipynb)  
-**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jane-russ/MADT8101/blob/main/2.Basic%20Customer%20Analytics%20%26%20Single%20Customer%20View/Revise_Clustering_Result.ipynb)
+**Notebooks:** [K-Means Model](./Revise_of_Supermarket_Clustering.ipynb)  
+**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jane-russ/MADT8101/blob/main/2.Basic%20Customer%20Analytics%20%26%20Single%20Customer%20View/Revise_of_Supermarket_Clustering.ipynb)
 #### Features
 ##### Overall Behaviour
 * `FQ`
