@@ -6,6 +6,35 @@
 **Notebooks:** [K-Means Model](./Revise_Clustering_Result.ipynb)  
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jane-russ/MADT8101/blob/main/2.Basic%20Customer%20Analytics%20%26%20Single%20Customer%20View/Revise_Clustering_Result.ipynb)
 #### Features
+##### Overall Behaviour
+* `FQ`
+* `Total_Spend`
+* `MTBP`
+* `Life_Time`
+* `ARPU`
+* `CLTV`
+* `MOD_CUST_LIFESTAGE_CD`
+* `MOD_CUST_PRICE_SENSITIVITY_CD`
+##### Price sensitivity Ratio
+* `BASKET_PRICE_SENSITIVITY_LA`
+* `BASKET_PRICE_SENSITIVITY_MM`
+* `BASKET_PRICE_SENSITIVITY_UM`
+* `BASKET_PRICE_SENSITIVITY_XX`
+##### Basket Type Ratio
+* `BASKET_TYPE_Small_Shop`
+* `BASKET_TYPE_Top_Up`
+* `BASKET_TYPE_Full_Shop`
+* `BASKET_TYPE_XX`
+##### Mission Ratio
+* `BASKET_MISSION_Fresh`
+* `BASKET_MISSION_Grocery`
+* `BASKET_MISSION_Mixed`
+* `BASKET_MISSION_Non_Food`
+##### Basket Size Ratio
+* `BASKET_SIZE_L%`
+* `BASKET_SIZE_M%`
+* `BASKET_SIZE_S%` 
+ 
 #### Choosing K number of clusters
 Choose `K = 4` with the lowest silhoette score of 0.11
 ![elbow](./elbow.png)
