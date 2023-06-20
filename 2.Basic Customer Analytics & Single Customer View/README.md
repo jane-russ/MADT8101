@@ -7,7 +7,7 @@ The diagram below describes how this project was implemented.
 ## 1) Import Dataset
 The given Supermarket dataset contains 956K rows of sales transactions at sales-item level. The data include historical data from year 2006 to 2008.
 We initially explore the data and found that members contributes to 85% of total sales. Hence, we want to segment customers into groups so that the supermarket have behaviour insights and able to customize the approach for each segment. 
-
+![Dataset_Overview](./Dataset_Overview.PNG)
 
 ## 2) Generate Customer Single View
 Total 3,439 customers
