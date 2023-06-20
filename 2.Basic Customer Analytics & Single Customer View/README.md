@@ -3,12 +3,18 @@
 ## 1) Import Dataset
 ## 2) Generate Customer Single View
 ## 3) K-Means Clustering
+**Notebooks:** [K-Means Model](./Revise_Clustering_Result.ipynb)  
+**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jane-russ/MADT8101/blob/main/2.Basic%20Customer%20Analytics%20%26%20Single%20Customer%20View/Revise_Clustering_Result.ipynb)
 #### Features
 #### Choosing K number of clusters
+Choose `K = 4` with the lowest silhoette score of 0.11
 ![elbow](./elbow.png)
 ![silhoetterscore](./silhoetterscore_compare.PNG)
 ![silhoetterplot](./silhoetterplot_K4.png)
+
 #### Clustering Result
+![clustering_result](./clustering_result.png)
+
 ## 4) Clustering Result Analysis
 **Notebooks:** [Clustering Result EDA](./Revise_Clustering_Result.ipynb)  
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jane-russ/MADT8101/blob/main/2.Basic%20Customer%20Analytics%20%26%20Single%20Customer%20View/Revise_Clustering_Result.ipynb)
