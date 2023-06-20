@@ -7,7 +7,7 @@
 #### Choosing K number of clusters
 #### Clustering Result
 ## 4) Clustering Result Analysis
-**Notebooks:** [Clustering Result EDA](./clustering-result-eda.ipynb)  
+**Notebooks:** [Clustering Result EDA](./Revise_Clustering_Result.ipynb)  
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanatiem/BADS7105-CRM-Analytics/blob/main/Homework%2006%20-%20Customer%20Segmentation/clustering-result-eda.ipynb) 
 #### EDA
 ##### Describe Features
