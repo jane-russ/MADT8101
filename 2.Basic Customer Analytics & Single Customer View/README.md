@@ -6,8 +6,11 @@ The diagram below describes how this project was implemented.
 
 ## 1) Import Dataset
 The given Supermarket dataset contains 956K rows of sales transactions at sales-item level. The data include historical data from year 2006 to 2008.
+We initially explore the data and found that members contributes to 85% of total sales. Hence, we want to segment customers into groups so that the supermarket have behaviour insights and able to customize the approach for each segment. 
+
 
 ## 2) Generate Customer Single View
+Total 3,439 customers
 ## 3) K-Means Clustering
 **Notebooks:** [K-Means Model](./Revise_of_Supermarket_Clustering.ipynb)  
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jane-russ/MADT8101/blob/main/2.Basic%20Customer%20Analytics%20%26%20Single%20Customer%20View/Revise_of_Supermarket_Clustering.ipynb)
