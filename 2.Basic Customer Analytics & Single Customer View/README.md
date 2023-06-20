@@ -5,6 +5,9 @@
 ## 3) K-Means Clustering
 #### Features
 #### Choosing K number of clusters
+![elbow](./elbow.png)
+![silhoetterscore](./silhoetterscore_compare.PNG)
+![silhoetterplot](./silhoetterplot_K4.png)
 #### Clustering Result
 ## 4) Clustering Result Analysis
 **Notebooks:** [Clustering Result EDA](./Revise_Clustering_Result.ipynb)  
