@@ -8,7 +8,7 @@
 #### Clustering Result
 ## 4) Clustering Result Analysis
 **Notebooks:** [Clustering Result EDA](./Revise_Clustering_Result.ipynb)  
-**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanatiem/BADS7105-CRM-Analytics/blob/main/Homework%2006%20-%20Customer%20Segmentation/clustering-result-eda.ipynb) 
+**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jane-russ/MADT8101/blob/main/2.Basic%20Customer%20Analytics%20%26%20Single%20Customer%20View/Revise_Clustering_Result.ipynb)
 #### EDA
 ##### Describe Features
 ![describe1](./Features_Describe_Buying1.PNG)
