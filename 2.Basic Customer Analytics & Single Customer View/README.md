@@ -72,4 +72,28 @@ Choose `K = 4` with the lowest silhoette score of 0.11
 #### Feature Importance
 With the cluster labels as classes to predict, train a Random Forest classifier.
 ![importance](./Features_Importance.png) 
+
 ## 5) Interpretation
+![Dashboard_ClusterAnalysis](./Dashboard_ClusterAnalysis.PNG)
+
+### Cluster 0 : VIP Loyal Customers
+**Description:** Large Shopping Mixed Basket, Smallest group but contribute 18% of total sales.  
+**Recommended Action:** Ensure retention and decrease mean time between purchase.  
+**Recommended Next steps:** Investigate in attractive loyalty scheme and gamification
+
+### Cluster 1 : Regular Shoppers
+**Description:** Mid Basket Size been a regular customer who comes consistently.  
+**Recommended Action:** Increase basket size.  
+**Recommended Next steps:** Explore if the segment can be further segments for more customized approach. 
+
+### Cluster 2 : Daily Shoppers
+**Description:** Small Basket size but come often, The group has the highest number of proportion of purchase with non-food products.  
+**Recommended Action:** Increase basket size with upselling each time they visit the store to increase the value per visit.  
+**Recommended Next steps:** Explore in detail on what are the non-food products they are interested in and how can it be upsell.  
+
+### Cluster 3 : Large Top Up Shoppers
+**Description:** Large Shopping Top Up Basket, Contribute almost 60% of sales.  
+**Recommended Action:** Increase basket size with cross selling as they come for top up shopping.  
+**Recommended Next steps:** Explore in details and product recommendation project.  
+
+Note that for mean time between purchased, median is used as it is quite left-skewed.
