@@ -1,6 +1,12 @@
 # Customer Segmentation
 [![](https://img.shields.io/badge/-K--Means-blue)](#) [![](https://img.shields.io/badge/-DAX-blue)](#) [![](https://img.shields.io/badge/-Python-blue)](#) [![](https://img.shields.io/badge/-Google--Colab-blue)](#) [![](https://img.shields.io/badge/-Power--BI-blue)](#) [![](https://img.shields.io/badge/-Dashboard-blue)](#)
+
+The diagram below describes how this project was implemented.
+
+
 ## 1) Import Dataset
+The given Supermarket dataset contains 956K rows of sales transactions at sales-item level. The data include historical data from year 2006 to 2008.
+
 ## 2) Generate Customer Single View
 ## 3) K-Means Clustering
 **Notebooks:** [K-Means Model](./Revise_of_Supermarket_Clustering.ipynb)  
