@@ -37,8 +37,9 @@ Developing a customer scoring system utilizing Customer Lifetime Value (CLV) can
  
 * each visit (frequency) contributes 1 point towards the score.
 * each premium set purchase (larger basket size) contributes 3 points towards the score.
-  
-attached scheme pictures
+   
+![LoyaltySchemeSuggestion](./img/LoyaltySchemeSuggestion.PNG)
+
 ## Loyalty Program Suggestion 
 By using CLV as a basis for customer scoring, you can prioritize and personalize your interactions and marketing efforts. 
 1. Tier Benefit
