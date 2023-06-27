@@ -15,15 +15,19 @@ Suki Teenoi is facing challenges to increase customer lifetime value due to:
    - The only way to increase customer lifetime value is by increasing the number of visits since the products are priced at a fixed amount of 219 THB.
      
 ## Customer Lifetime Value (CLV)
+CLV is a metric that estimates the total revenue a customer is likely to generate throughout their relationship with your company. 
+One commonly used formula is CLV = (Average Purchase Value x Margin% x Purchase Frequency) x Average Customer Lifespan.
 attached slide 7 & 9 
 ## Segmentation by CLV
 usings the following features: CLV, Meantime Between purchase, Avg basket size, Total visit per month (avg last 3 months), % Standard Set Bought, % Premium Set Bought
 ## Customer Scoring Criteria
+Creating a customer scoring system using Customer Lifetime Value (CLV) can be a valuable approach for understanding and segmenting customers based on their long-term value to your business. 
 Scoring based on classification feature importance. In this case, we assume that it is no. visit and % premium set purchase
 using 1 visit (frequency) as 1 point 
 using 1 premium set (larger basker size) as 3 points
 attached scheme pictures
 ## Loyalty Program Suggestion 
+By using CLV as a basis for customer scoring, you can prioritize and personalize your interactions and marketing efforts. 
 1. Tier Benefit
 2. Tailored promotions and retention effort
 [click here to go to presentation](https://www.canva.com/design/DAFmzt9ieBA/VlXMk0Wh3xlwTVII7BMUsA/view?utm_content=DAFmzt9ieBA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
