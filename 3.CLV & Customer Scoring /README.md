@@ -1,7 +1,7 @@
 # Customer Lifetime Value & Scoring
 [![](https://img.shields.io/badge/-Concept-blue)](#) [![](https://img.shields.io/badge/-Presentation-blue)](#)   
 The objective is to identify a business, analyze its existing loyalty program, and offer recommendations for improvement.
-## Business Context
+## Business Context: Suki Teenoi
 ![teenoi_bg](./img/teenoi%20bg.jpg)
 "Suki Teenoi" is considered a popular and rapidly growing sukiyaki restaurant. Despite the COVID-19 situation, its revenue and profitability remain strong. In the year 2022, Suki Tienoi has been in operation for 5 years, with a total of 42 branches under the Suki Teenoi brand, an increase from 36 branches in 2021. The branches are located in Bangkok and its surrounding provinces. The restaurant aims to meet the demands of buffet-style sukiyaki lovers by providing high-quality, delicious food at a reasonable price. Currently, Suki Teenoi offers its buffet at 219 baht per person.
   
