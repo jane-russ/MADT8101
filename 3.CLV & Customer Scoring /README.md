@@ -35,13 +35,12 @@ Segment the customers into groups using the following features:
 ## Customer Scoring Criteria
 Developing a customer scoring system utilizing Customer Lifetime Value (CLV) can provide significant insights and enable effective customer segmentation based on their long-term value to Suki Teenoi. By assigning scores based on key classification features, such as the number of visits and the percentage of premium set purchases, we can establish a scoring framework:
  
-* each visit (frequency) contributes 1 point towards the score.
-* each premium set purchase (larger basket size) contributes 3 points towards the score.
-   
-![LoyaltySchemeSuggestion](./img/LoyaltySchemeSuggestion2.PNG)
+* each visit (frequency) = 1 point earned.
+* each premium set purchase (larger basket size) = 3 points earned. 
 
 ## Loyalty Program Suggestion 
 By using CLV as a basis for customer scoring, you can prioritize and personalize your interactions and marketing efforts. 
-1. Tier Benefit
-2. Tailored promotions and retention effort
-[click here to go to presentation](https://www.canva.com/design/DAFmzt9ieBA/VlXMk0Wh3xlwTVII7BMUsA/view?utm_content=DAFmzt9ieBA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+1. Tier Benefit ![LoyaltySchemeSuggestion](./img/LoyaltySchemeSuggestion2.PNG)
+2. Tailored promotions and retention ![DataAnalysis](./img/DataAnalysis.PNG)
+
+    [click here to go to presentation](https://www.canva.com/design/DAFmzt9ieBA/VlXMk0Wh3xlwTVII7BMUsA/view?utm_content=DAFmzt9ieBA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
