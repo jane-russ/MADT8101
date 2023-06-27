@@ -1,4 +1,4 @@
-# Customer Lifetime Value & Scoring
+![image](https://github.com/jane-russ/MADT8101/assets/106718822/a5f52514-fda9-456a-a880-1dce4ff8d869)# Customer Lifetime Value & Scoring
 [![](https://img.shields.io/badge/-Concept-blue)](#) [![](https://img.shields.io/badge/-Presentation-blue)](#)   
 The objective is to identify a business, analyze its existing loyalty program, and offer recommendations for improvement.
 ## Business Context: Suki Teenoi
@@ -17,8 +17,9 @@ Suki Teenoi is facing challenges to increase customer lifetime value due to:
      
 ## Customer Lifetime Value (CLV)
 CLV is a metric that estimates the total revenue a customer is likely to generate throughout their relationship with your company. 
-One commonly used formula is CLV = (Average Purchase Value x Margin% x Purchase Frequency) x Average Customer Lifespan.
-attached slide 7 & 9 
+One commonly used formula is CLV = (Average Basket Size x Margin% x Purchase Frequency) x Average Customer Lifespan.
+![CLVSuggestions](./img/CLVSuggestions.PNG)
+
 ## Segmentation by CLV
 usings the following features: CLV, Meantime Between purchase, Avg basket size, Total visit per month (avg last 3 months), % Standard Set Bought, % Premium Set Bought
 ## Customer Scoring Criteria
