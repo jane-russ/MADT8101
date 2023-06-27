@@ -43,4 +43,7 @@ By using CLV as a basis for customer scoring, you can prioritize and personalize
 1. Tier Benefit ![LoyaltySchemeSuggestion](./img/LoyaltySchemeSuggestion2.PNG)
 2. Tailored promotions and retention ![DataAnalysis](./img/DataAnalysis.PNG)
 
-    [click here to go to presentation](https://www.canva.com/design/DAFmzt9ieBA/VlXMk0Wh3xlwTVII7BMUsA/view?utm_content=DAFmzt9ieBA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+## Expected Results
+![ExpectedResults](./img/ExpectedResults.PNG)   
+
+* [click here to go to presentation](https://www.canva.com/design/DAFmzt9ieBA/VlXMk0Wh3xlwTVII7BMUsA/view?utm_content=DAFmzt9ieBA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
