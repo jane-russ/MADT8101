@@ -6,7 +6,6 @@
 
 ## 1) Import Dataset
 The data is an ecommerce dataset including the following: 
-Variable	Discerption
 - CustomerID	Unique = customer ID
 - Churn = Churn Flag
 - Tenure = Tenure of customer in organization
@@ -28,7 +27,20 @@ Variable	Discerption
 - DaySinceLastOrder = Day Since last order by customer
 - CashbackAmount = Average cashback in last month
 
+Number of observations: 5,630   
+Number of variables: 20
+
 ## 2) EDA
+EDA Shows that the data is quite imbalance between churn and not churn customers. 
+### Summary statistics of numerical variables by Churn Flag:  
+![Describe1](./img/Describe1.PNG)
+![Describe2](./img/Describe2.PNG)
+![Describe3](./img/Describe3.PNG)
+
+### Frequency distribution of categorical variables:
+![FrequencyDistribution](./img/FrequencyDistribution.png)
+
+
 ## 3) Feature Engineering
 ## 4) Model Creation & Evaluation
 ## 5) Result Feature Importance
