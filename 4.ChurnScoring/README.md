@@ -32,14 +32,28 @@ Number of variables: 20
 
 ## 2) EDA
 EDA Shows that the data is quite imbalance between churn and not churn customers. 
+### Frequency distribution of categorical variables:
+![FrequencyDistribution](./img/FrequencyDistribution.png)  
+
 ### Summary statistics of numerical variables by Churn Flag:  
 ![Describe1](./img/Describe1.PNG)
 ![Describe2](./img/Describe2.PNG)
 ![Describe3](./img/Describe3.PNG)
 
-### Frequency distribution of categorical variables:
-![FrequencyDistribution](./img/FrequencyDistribution.png)
+### Nurmerical variable distribution:
+![KDE](./img/KDE.png)   
 
+### Missing Value: 
+-  `Tenure `                         264
+-  `WarehouseToHome `                251
+-  `HourSpendOnApp `                 255
+-  `OrderAmountHikeFromlastYear `    265
+-  `CouponUsed `                     256
+-  `OrderCount `                     258
+-  `DaySinceLastOrder `              307
+
+* Based on KDE plot, there features (`Tenure ` , `WarehouseToHome `, `OrderAmountHikeFromlastYear ` , `CouponUsed ` , `OrderCount ` , `DaySinceLastOrder `) are skewed hence we used median to impute missing value
+* For  `HourSpendOnApp ` , it is multinomial so we used mode to impute missing value
 
 ## 3) Feature Engineering
 ## 4) Model Creation & Evaluation
