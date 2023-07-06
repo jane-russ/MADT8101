@@ -55,6 +55,28 @@ EDA Shows that the data is quite imbalance between churn and not churn customers
 * Based on KDE plot, there features (`Tenure ` , `WarehouseToHome `, `OrderAmountHikeFromlastYear ` , `CouponUsed ` , `OrderCount ` , `DaySinceLastOrder `) are skewed hence we used median to impute missing value
 * For  `HourSpendOnApp ` , it is multinomial so we used mode to impute missing value
 
-## 3) Feature Engineering
-## 4) Model Creation & Evaluation
-## 5) Result Feature Importance
+### Bivariate Analysis: 
+Looks like almost all feature are significant to churn flag.
+
+#### Cat-Cat
+![heatmap](./img/heatmap.png) 
+- PreferredLoginDevice: Chi-square statistic: 73.536 | P-value: 1.0756922373255213e-16
+- PreferredPaymentMode: Chi-square statistic: 77.897 | P-value: 9.708708511076305e-15
+- Gender: Chi-square statistic: 4.663 | P-value: 0.030820940334890086
+- PreferedOrderCat: Chi-square statistic: 288.639 | P-value: 2.7708325346337454e-60
+- MaritalStatus: Chi-square statistic: 188.671 | P-value: 1.073011277910542e-41
+
+#### Cat-Num
+![boxplot](./img/boxplot.png) 
+![Ttest](./img/Ttest.PNG) 
+
+#### Feature engineering 
+turning categorical columns into numeric value using one-hot end technique. Unique values for column:
+- `PreferredLoginDevice`:['Mobile Phone' 'Phone' 'Computer']
+- `PreferredPaymentModev:['Debit Card' 'UPI' 'CC' 'Cash on Delivery' 'E wallet' 'COD' 'Credit Card']
+- `Gender`: ['Female' 'Male']
+- `PreferedOrderCat`: ['Laptop & Accessory' 'Mobile' 'Mobile Phone' 'Others' 'Fashion' 'Grocery']
+- `MaritalStatus`:['Single' 'Divorced' 'Married']
+  
+## 3) Model Creation & Evaluation
+## 4) Result Feature Importance
