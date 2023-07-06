@@ -82,7 +82,8 @@ turning categorical columns into numeric value using one-hot end technique. Uniq
 - Model Used: 'Logistic Regression', 'Random Forest', 'KNeighbors','XGBoost'
 - Fixing Imbalance Technique: none, under sampler, over sampler, SMOTE
 - The best performing Model: XGBoost, Sampler: Over_Sampler
-   ![ModelResults](./img/ModelResults.PNG) 
+
+![ModelResults](./img/ModelResults.PNG) 
   
 ## 4) Result Feature Importance
 The best performing Model: XGBoost, Sampler: Over_Sampler
