@@ -73,10 +73,27 @@ Looks like almost all feature are significant to churn flag.
 #### Feature engineering 
 turning categorical columns into numeric value using one-hot end technique. Unique values for column:
 - `PreferredLoginDevice`:['Mobile Phone' 'Phone' 'Computer']
-- `PreferredPaymentModev:['Debit Card' 'UPI' 'CC' 'Cash on Delivery' 'E wallet' 'COD' 'Credit Card']
+- `PreferredPaymentModev`:['Debit Card' 'UPI' 'CC' 'Cash on Delivery' 'E wallet' 'COD' 'Credit Card']
 - `Gender`: ['Female' 'Male']
 - `PreferedOrderCat`: ['Laptop & Accessory' 'Mobile' 'Mobile Phone' 'Others' 'Fashion' 'Grocery']
 - `MaritalStatus`:['Single' 'Divorced' 'Married']
   
 ## 3) Model Creation & Evaluation
+- Model Used: 'Logistic Regression', 'Random Forest', 'KNeighbors','XGBoost'
+- Fixing Imbalance Technique: none, under sampler, over sampler, SMOTE
+- The best performing Model: XGBoost, Sampler: Over_Sampler
+   ![ModelResults](./img/ModelResults.PNG) 
+  
 ## 4) Result Feature Importance
+The best performing Model: XGBoost, Sampler: Over_Sampler
+### confusion matrix  
+![confusionmatrix](./img/confusionmatrix.png)
+
+### ROC-AUC  
+![ROCAUC](./img/ROCAUC.png)
+
+### evaulation  
+![evaluation](./img/evaluation.PNG)
+
+### feature importance  
+![fimp](./img/fimp.png)
