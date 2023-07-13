@@ -26,11 +26,12 @@ With the cluster labels as classes to predict, train a Random Forest classifier.
 ![y21segment](./img/before.png)
 With xxx
 
-# 4) Classification & Segment Movement Analysis
+# 4) Classification
 **Notebooks:** [Classification Model](./ChurnScoring.ipynb)  
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jane-russ/MADT8101/blob/main/5.Segmentation/V2_2_HDI_Classification%(1).ipynb)
 #### Model Evaluation
 #### Model Results
 ![y21segment](./img/after.png)
-### Segment Movement Analysis
-![segmentation_movement](./img/segmentation_movement.png)
+
+# 5) Segment Movement Analysis
+![mvtanalysis](./img/mvtanalysis.png)
