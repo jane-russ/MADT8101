@@ -34,4 +34,4 @@ With xxx
 ![y21segment](./img/after.png)
 
 # 5) Segment Movement Analysis
-![mvtanalysis](./img/mvtanalysis.png)
+![mvtanalysis](./img/mvtanalysis.PNG)
