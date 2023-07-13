@@ -34,4 +34,11 @@ With xxx
 ![y21segment](./img/after.png)
 
 # 5) Segment Movement Analysis
-![mvtanalysis](./img/mvtanalysis.PNG)
+![mvtanalysis](./img/segmentation_movement.png)
+
+Movement Analysis:
+- Significant shift in customer behavior from offline (0) to online (1) shopping.
+- Drop-off of team members (3) by 36%, transitioning to become general shoppers (0, 1).
+- Those who remained as team members have doubled their purchases.
+- Contrastingly, team leaders' spending has declined by 42%.
+- The decrease in team members resulted in a 26% reduction in the number of team leaders, from 70 to 52 in 2022.
