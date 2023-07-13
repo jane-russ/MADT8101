@@ -14,7 +14,8 @@ HDI was started in 1986 by Mr. Peter Chia, who desired to provide a better life 
 2. salesbyitem 2021 - 2022 : extract json product file to sales quantiy by item
 
 # 2) Create single customer view
-base on datasets above, we create the following data single customer view table
+base on datasets above, we create the following data single customer view table:      
+
 ![feature](./img/feature.PNG)
 
 # 3) Clustering
