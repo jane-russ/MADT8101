@@ -5,6 +5,11 @@
 ![ProjectOverview](./img/ProjectOverview.PNG)
 
 # 1) Import Dataset
+HDI was started in 1986 by Mr. Peter Chia, who desired to provide a better life for his family. HDI emerged as a trailblazer in the development of the Network Marketing Business in Asia, specifically in Singapore, Malaysia, Indonesia, Hong Kong, and the Philippines. The company offers natural products from bee, they  have five main categories, namely supplements for adult & Kid, personal care, skincare, food and beverages.
+## Dataset
+1. data member : master data of downline and his/her sponsor
+2. transaction 2021 - 2022 : contains sales by bill from year 2021 to 2022
+
 # 2) Create single customer view
 
 # 3) Clustering
@@ -24,7 +29,6 @@ With the cluster labels as classes to predict, train a Random Forest classifier.
 ![importance](./img/fimp.png)
 #### Cluster Interpretation
 ![y21segment](./img/before.png)
-With xxx
 
 # 4) Classification
 **Notebooks:** [Classification Model](./V2_2_HDI_Classification%20(1).ipynb)  
