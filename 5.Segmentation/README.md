@@ -36,6 +36,8 @@ With xxx
 # 5) Segment Movement Analysis
 ![mvtanalysis](./img/segmentation_movement.png)
 
+![BeforeAfter](./img/Segmentation_BeforeAfter2.jpg)
+
 Movement Analysis:
 - Significant shift in customer behavior from offline (0) to online (1) shopping.
 - Drop-off of team members (3) by 36%, transitioning to become general shoppers (0, 1).
