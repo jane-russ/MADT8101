@@ -27,7 +27,7 @@ With the cluster labels as classes to predict, train a Random Forest classifier.
 With xxx
 
 # 4) Classification
-**Notebooks:** [Classification Model](./ChurnScoring.ipynb)  
+**Notebooks:** [Classification Model](./V2_2_HDI_Classification%20(1).ipynb)  
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jane-russ/MADT8101/blob/main/5.Segmentation/V2_2_HDI_Classification%20(1).ipynb)
 #### Model Evaluation
 ![ModelResults](./img/ModelResults.PNG)
