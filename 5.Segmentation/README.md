@@ -1,9 +1,9 @@
 # Customer Segmentation & Segment Movement Analysis
 [![](https://img.shields.io/badge/-K--Means-orange)](#) [![](https://img.shields.io/badge/-Classification-orange)](#) [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/-Google--Colab-green)](#)   
 
-
-
 # 0) Project Overview
+![ProjectOverview](./img/ProjectOverview.PNG)
+
 # 1) Import Dataset
 # 2) Create single customer view
 
