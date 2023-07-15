@@ -66,3 +66,4 @@ Movement Analysis:
 - Do Better: Membership retention (especially in gold and diamond tier) & Membership progress through tiers
 
 ### Next Steps: 
+![nextsteps](./img/nextsteps.png) 
