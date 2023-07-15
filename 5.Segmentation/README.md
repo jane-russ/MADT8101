@@ -16,6 +16,10 @@ HDI was started in 1986 by Mr. Peter Chia, who desired to provide a better life 
 # 2) Create single customer view
 base on datasets above, we create the following data single customer view table:      
 
+![SCV](./img/SCV.png)     
+
+- List of SCV Features
+  
 ![feature](./img/feature.PNG)
 
 # 3) Clustering
@@ -34,7 +38,7 @@ Choose `K = 4` with the lowest silhoette score of 0.26
 With the cluster labels as classes to predict, train a Random Forest classifier.
 ![importance](./img/fimp.png)
 #### Cluster Interpretation
-![y21segment](./img/before.png)
+![before2](./img/before2.PNG)
 
 # 4) Classification
 **Notebooks:** [Classification Model](./V2_2_HDI_Classification%20(1).ipynb)  
@@ -42,16 +46,23 @@ With the cluster labels as classes to predict, train a Random Forest classifier.
 #### Model Evaluation
 ![ModelResults](./img/ModelResults.PNG)
 #### Model Results
-![y21segment](./img/after.png)
+![after2](./img/after2.PNG)
 
 # 5) Segment Movement Analysis
 ![mvtanalysis](./img/segmentation_movement.png)
 
-![BeforeAfter](./img/Segmentation_BeforeAfter2.jpg)
+![BeforeAfter](./img/Segmentation_BeforeAfter_final.PNG)
 
 Movement Analysis:
-- Significant shift in customer behavior from offline (0) to online (1) shopping.
-- Drop-off of team members (3) by 36%, transitioning to become general shoppers (0, 1).
-- Those who remained as team members have doubled their purchases.
-- Contrastingly, team leaders' spending has declined by 42%.
-- The decrease in team members resulted in a 26% reduction in the number of team leaders, from 70 to 52 in 2022.
+- Successfully increase purchased quantity through increase in unique items in both Star group (online and offline)
+- Drop-off of Gold (3) by 36%, transitioning to become stars rank (0, 1).
+- Those who remained as gold level have doubled their purchases.
+- Contrastingly, Diamond' spending has declined by 42%.
+- The decrease in Gold level resulted in a 26% reduction in the number of Diamond, from 70 to 52 in 2022.
+
+# 6) Business Recommendation
+### Insights Recap 
+- Do Good: Cross-category promotion Product Portfolio curation &  to increase unique items and sales qty
+- Do Better: Membership retention (especially in gold and diamond tier) & Membership progress through tiers
+
+### Next Steps: 
