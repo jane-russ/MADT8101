@@ -10,3 +10,5 @@ SEMINAR IN ADVANCED ANALYTICS
 [![](https://img.shields.io/badge/-Classification-orange)](#) [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/-Google--Colab-green)](#)
 - [x] [5.Segmentation](https://github.com/jane-russ/MADT8101/tree/main/5.Segmentation)  
 [![](https://img.shields.io/badge/-K--Means-orange)](#) [![](https://img.shields.io/badge/-Classification-orange)](#) [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/-Google--Colab-green)](#) 
+- [x] [6.TopicModeling](https://github.com/jane-russ/MADT8101/tree/main/6.TopicModeling)  
+[![](https://img.shields.io/badge/-Topic--Modeling-orange)](#) [![](https://img.shields.io/badge/-NLP-orange)](#) [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/-Google--Colab-green)](#) 
