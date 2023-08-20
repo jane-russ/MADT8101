@@ -9,7 +9,7 @@ This project aims to perform topic modeling on a Facebook post's comments using 
 # 2) Result analysis
 ## Topic 1: Improve Customer Experience by improving wait time and queue management
 ![Topic1](./img/Topic1.png) 
-## Topic 2: ???
+## Topic 2: Noise (To be exclude from analysis)
 ![Topic2](./img/Topic2.png) 
 ## Topic 3: Menu Variety
 ![Topic3](./img/Topic3.png) 
