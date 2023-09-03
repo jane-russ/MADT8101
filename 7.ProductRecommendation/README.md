@@ -18,3 +18,6 @@ This project focus on recommended additional product to those who is already buy
 # 3) Product Recommendation
 **Notebooks:** [Product Recommendation](./ProductRecom1_top20.ipynb)  
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jane-russ/MADT8101/blob/main/7.ProductRecommendation/ProductRecom1_top20.ipynb)
+
+# 4) Recommendation Results
+![heatmap](./img/itemsimilarityheatmap.png)
