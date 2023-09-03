@@ -22,8 +22,16 @@ This project focus on recommended additional product to those who is already buy
 ## List of top product list: 
 ['5C4CCE', '5C4CC4', '8C4CCR', 'KCQCE4', 'XC4CCW', 'KCQCEC', '6CQC41', '7C4CC4', 'KC4CC4', 'BC4CC4', '5C4CEC', '8C4CC4', '8C4C4C', 'KCQCEE', '8C4CC3', '5C4C4W', 'XC4CCE', '8C4CCQ', '5CJCCW', 'KC4CQZ'] 
 
-We find out from the graph below that '5C4CCE' is likely to be a free product, thus, we exclude from the list. 
+We find out from the graph below that '5C4CCE' is likely to be a free product, thus, we exclude it from the list. 
 ![freeproduct](./img/FreeProduct.png)
 
 # 4) Recommendation Results
+The heatmap below shows that products that have a high likelihood of being bought together are: 
+1. XC4CCE - 5C4C4W
+2. 8C4CCQ - 5C4C4W
+3. XC4CCE - 8C4CCQ
 ![heatmap](./img/Item%20Similarity%20Heatmap.png)
+
+## Recommendation algorithm
+Using the user-item matrix to create cosine similarity, we can also create a function to perform the product recommendation of each user. For example: 
+![recomengine](./img/RecomEngine.png)
