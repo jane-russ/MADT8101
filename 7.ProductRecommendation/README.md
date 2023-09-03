@@ -19,5 +19,11 @@ This project focus on recommended additional product to those who is already buy
 **Notebooks:** [Product Recommendation](./ProductRecom1_top20.ipynb)  
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jane-russ/MADT8101/blob/main/7.ProductRecommendation/ProductRecom1_top20.ipynb)
 
+## List of top product list: 
+['5C4CCE', '5C4CC4', '8C4CCR', 'KCQCE4', 'XC4CCW', 'KCQCEC', '6CQC41', '7C4CC4', 'KC4CC4', 'BC4CC4', '5C4CEC', '8C4CC4', '8C4C4C', 'KCQCEE', '8C4CC3', '5C4C4W', 'XC4CCE', '8C4CCQ', '5CJCCW', 'KC4CQZ'] 
+
+We find out from the graph below that '5C4CCE' is likely to be a free product, thus, we exclude from the list. 
+![freeproduct](./img/FreeProduct.png)
+
 # 4) Recommendation Results
-![heatmap](./img/itemsimilarityheatmap.png)
+![heatmap](./img/Item%20Similarity%20Heatmap.png)
